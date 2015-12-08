@@ -1,4 +1,4 @@
-# Bài tập Thảo luận Java
+﻿# Bài tập Thảo luận Java
 Bài tập Thảo luận Java của cô Lương Thị Thảo Hiếu. Starring, Forking as Thanks.
 
 # Thông tin
@@ -27,7 +27,7 @@ Xin cảm ơn :)
         Viết chương trình phân tích một số nguyên thành các thừa số nguyên tố.
         Ví dụ: Số 28 được phân tích thành 2 x 2 x 7.
         
-###Bài 5
+###Bài 5 (viết chung Bài 6)
         Viết chương trình liệt kê tất cả các số nguyên tố nhỏ hơn n cho trước.
 
 ###Bài 6
@@ -41,19 +41,19 @@ Xin cảm ơn :)
         Nhập số n và dãy các số thực  a0 , a1 ,..., an-1.
         Không đổi chỗ các phần tử và không dùng thêm mảng số thực nào khác (có thể dùng mảng số nguyên nếu cần) hãy cho hiện trên màn hình dãy trên theo thứ tự tăng dần.
 
-###Bài 9.
+###Bài 9
         Viết chương trình nhập vào vào ma trận A có n dòng, m cột, các phần tử là những số nguyên lớn hơn 0 và nhỏ hơn 100 được nhập vào từ bàn phím. Thực hiện các chức năng sau:
         a)Tìm phần tử lớn nhất của ma trận cùng chỉ số của số đó.
         b)Tìm và in ra các phần tử là số nguyên tố của ma trận (các phần tử không nguyên tố thì thay bằng số 0).
         c)Sắp xếp tất cả các cột của ma trận theo thứ tự tăng dần và in kết quả ra màn hình.
 
-###Bài 10.
+###Bài 10
         Viết chương trình nhập vào vào mảng A có n phần tử, các phần tử là những số nguyên lớn hơn 0 và nhỏ hơn 100 được nhập vào từ bàn phím. Thực hiện các chức năng sau:
         a) Tìm phần tử lớn nhất và lớn thứ 2 trong mảng cùng chỉ số của các số đó.
         b) Sắp xếp mảng theo thứ tự giảm dần .
         c) Nhập một số nguyên x và chèn x vào mảng A sao cho vẫn đảm bảo tính sắp xếp giảm dần và số phần tử của mảng vẫn không đổi.
 
-###Bài 11
+###Bài 11 (viết chung Bài 12)
         Nhập một dãy n số nguyên, tìm khoảng cách ngắn nhất giữa hai số liền kề nhau.
         Ví dụ: input 4 8 6 1 2 9 4, out put: Khoảng cách ngắn nhất là 1, giữa hai số 1 và 2.
 
@@ -68,7 +68,7 @@ Xin cảm ơn :)
         g) Đưa ra phần tử trong mảng có giá trị là x (ví dụ như x = 3);
         h) Đưa ra: giá trị lớn nhất, nhỏ nhất có trong mảng.
 
-###Bài 13
+###Bài 13 (viết chung Bài 14)
         Viết chương trình thực hiện chuẩn hoá một xâu ký tự nhập từ bàn phím (loại bỏ các dấu cách thừa, chuyển ký tự đầu mỗi từ thành chữ hoa, các ký tự khác thành chữ thường)
         Gợi ý: Hãy sử dụng phương thức của StringTokenizer
 
