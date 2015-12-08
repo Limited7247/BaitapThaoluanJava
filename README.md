@@ -8,7 +8,7 @@ Nếu cảm thấy có ích, vui lòng starring hoặc forking repository này.
 Xin cảm ơn :)
 
 # Đề bài
-Bài 1. Viết chương trình tìm ước số chung lớn nhất, bội số chung nhỏ nhất của hai số tự nhiên a và b.
+##Bài 1. Viết chương trình tìm ước số chung lớn nhất, bội số chung nhỏ nhất của hai số tự nhiên a và b.
 
 Bài 2. Viết chương trình chuyển đổi một số tự nhiên ở hệ cơ số 10 thành số ở hệ cơ số b bất kì (1< b≤ 36).
 
