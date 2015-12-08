@@ -8,24 +8,30 @@ Nếu cảm thấy có ích, vui lòng starring hoặc forking repository này.
 Xin cảm ơn :)
 
 # Đề bài
-##Bài 1
+###Bài 1
 Viết chương trình tìm ước số chung lớn nhất, bội số chung nhỏ nhất của hai số tự nhiên a và b.
 
-##Bài 2
+###Bài 2
 Viết chương trình chuyển đổi một số tự nhiên ở hệ cơ số 10 thành số ở hệ cơ số b bất kì (1< b≤ 36).
 
-Bài 3. Hãy viết chương trình tính tổng các chữ số của một số nguyên bất kỳ. Ví dụ: Số  8545604 có tổng các chữ số là: 8+5+4+5+6+0+4= 32.
+###Bài 3
+Hãy viết chương trình tính tổng các chữ số của một số nguyên bất kỳ. Ví dụ: Số  8545604 có tổng các chữ số là: 8+5+4+5+6+0+4= 32.
 
-Bài 4. Viết chương trình phân tích một số nguyên thành các thừa số nguyên tố
+###Bài 4
+Viết chương trình phân tích một số nguyên thành các thừa số nguyên tố
         Ví dụ: Số 28 được phân tích thành 2 x 2 x 7
         
-Bài 5. Viết chương trình liệt kê tất cả các số nguyên tố nhỏ hơn n cho trước.
+###Bài 5
+Viết chương trình liệt kê tất cả các số nguyên tố nhỏ hơn n cho trước.
 
-Bài 6. Viết chương trình liệt kê n số nguyên tố đầu tiên.
+###Bài 6
+Viết chương trình liệt kê n số nguyên tố đầu tiên.
 
-Bài 7. Dãy số Fibonacci được định nghĩa như sau: F0 =1, F1 = 1; Fn = Fn-1 + Fn-2 với n>=2. Hãy viết chương trình tìm số Fibonacci thứ n.
+###Bài 7
+Dãy số Fibonacci được định nghĩa như sau: F0 =1, F1 = 1; Fn = Fn-1 + Fn-2 với n>=2. Hãy viết chương trình tìm số Fibonacci thứ n.
 
-Bài 8. Nhập số n và dãy các số thực  a0 , a1 ,..., an-1. Không đổi chỗ các phần tử và không dùng thêm mảng số thực nào khác (có thể dùng mảng số nguyên nếu cần) hãy cho hiện trên màn hình dãy trên theo thứ tự tăng dần.
+###Bài 8
+Nhập số n và dãy các số thực  a0 , a1 ,..., an-1. Không đổi chỗ các phần tử và không dùng thêm mảng số thực nào khác (có thể dùng mảng số nguyên nếu cần) hãy cho hiện trên màn hình dãy trên theo thứ tự tăng dần.
 
 Bài 9. Viết chương trình nhập vào vào ma trận A có n dòng, m cột, các phần tử là những số nguyên lớn hơn 0 và nhỏ hơn 100 được nhập vào từ bàn phím. Thực hiện các chức năng sau:
 a)Tìm phần tử lớn nhất của ma trận cùng chỉ số của số đó.
