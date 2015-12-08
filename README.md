@@ -3,8 +3,13 @@ Bài tập Thảo luận Java của cô Lương Thị Thảo Hiếu. Starring, F
 
 # Thông tin
 Đây là 16 bài Demo cho nhóm bài tập thảo luận môn Java của cô Lương Thị Thảo Hiếu.
+
+Các comments sẽ được cập nhật thêm trong thời gian sớm nhất.
+
 Mọi góp ý, báo lỗi, vui lòng để lại qua tab Issues.
+
 Nếu cảm thấy có ích, vui lòng starring hoặc forking repository này.
+
 Xin cảm ơn :)
 
 # Đề bài
